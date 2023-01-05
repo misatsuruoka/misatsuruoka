@@ -1,7 +1,16 @@
 ### Hi there 👋
+<p>
+<a href="https://github.com/misatsuruoka">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=misatsuruoka&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/misatsuruoka">
+ <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misatsuruoka&count_private=true&layout=compact&theme=github" />
+</a>
+<a href="https://github.com/misatsuruoka">
+  <img align="left" height="236px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=misatsuruoka&theme=github" />
+</a>
+ </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=misatsuruoka)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misatsuruoka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **misatsuruoka/misatsuruoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
